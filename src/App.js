@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import './App.css';
+
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './common/header/Header';
 import Pages from './pages/Pages';
 import Data from './components/Data';
-import Cart from './common/Cart/Cart';
+import Cart from './common/giohang/Cart';
 import Footer from './common/footer/Footer';
 import Sdata from '~/components/shops/Sdata';
 
